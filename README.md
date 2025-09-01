@@ -16,8 +16,21 @@ Here are some ideas to get you started:
 -->
 ![Lets GO](https://media2.giphy.com/media/v1.Y2lkPTc5MGI3NjExaWg0aHZ2Z3N4aGs0aHFmaTk3bXpod3hsaXVmMXFtYTFrdzQ0bTR2YSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/QADBkPcIsqymW2PtKP/giphy.gif)
 
-- 🔭 I’m currently studying at **Primakara University**
+- 🎓 I’m currently studying at **Primakara University**
+- 🚀 Passionate about **Fullstack Webdev, Game Dev, and Artificial Intelegence**  
 - 🌱 I’m currently learning **React and Tailwind**
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- ⚡ Fun fact: ...
+- 📫 How to reach me: kinamgamers@gmail.com
+
+---
+
+##### 🛠️ Tech Stack
+<img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" />
+<img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" />
+<img src="https://img.shields.io/badge/JavaScript-323330?style=for-the-badge&logo=javascript&logoColor=F7DF1E" />
+
+##### 🤝 Let's Connect
+![https://www.instagram.com/kinamdst?igsh=aDVncjI1dGVwZ2hr](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)
+![https://www.linkedin.com/in/kinam-gamers-a1a8bb357?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=android_app](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)
+
+##### 📈 GitHub Stats
+![KINamID GitHub stats](https://github-readme-stats.vercel.app/api?username=KINamID&show_icons=true&theme=merko)
