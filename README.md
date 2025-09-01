@@ -1,4 +1,4 @@
-## Hi there 👋
+## Hello World! I`m KINam 👋
 
 <!--
 **KINamID/KINamID** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -14,3 +14,10 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+![Lets GO](https://media2.giphy.com/media/v1.Y2lkPTc5MGI3NjExaWg0aHZ2Z3N4aGs0aHFmaTk3bXpod3hsaXVmMXFtYTFrdzQ0bTR2YSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/QADBkPcIsqymW2PtKP/giphy.gif)
+
+- 🔭 I’m currently studying at **Primakara University**
+- 🌱 I’m currently learning **React and Tailwind**
+- 💬 Ask me about ...
+- 📫 How to reach me: ...
+- ⚡ Fun fact: ...
